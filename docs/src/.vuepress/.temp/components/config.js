@@ -1,10 +1,10 @@
 import { defineClientConfig } from "@vuepress/client";
 import { h } from "vue";
 
-import { useStyleTag } from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
-import Badge from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import { useStyleTag } from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
+import Badge from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import BackToTop from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-components@2.0.0-beta.122/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
 
 
 export default defineClientConfig({

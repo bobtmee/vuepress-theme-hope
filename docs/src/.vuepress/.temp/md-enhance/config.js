@@ -1,19 +1,19 @@
 import { defineClientConfig } from "@vuepress/client";
-import ChartJS from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS.js";
-import CodeTabs from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs.js";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
-import CodeDemo from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo.js";
-import ECharts from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts.js";
-import FlowChart from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart.js";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-title.scss";
-import Mermaid from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid.js";
-import Presentation from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation.js";
-import Playground from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Playground.js";
-import Tabs from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs.js";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/katex.scss";
+import ChartJS from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS.js";
+import CodeTabs from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs.js";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
+import CodeDemo from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo.js";
+import ECharts from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts.js";
+import FlowChart from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart.js";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-title.scss";
+import Mermaid from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid.js";
+import Presentation from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation.js";
+import Playground from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Playground.js";
+import Tabs from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs.js";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/styles/katex.scss";
 import { defineAsyncComponent } from "vue";
 
 
@@ -28,7 +28,7 @@ export default defineClientConfig({
     app.component("Presentation", Presentation);
     app.component("Playground", Playground);
     app.component("Tabs", Tabs);
-    app.component("VuePlayground", defineAsyncComponent(() => import("C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/VuePlayground.js")));
+    app.component("VuePlayground", defineAsyncComponent(() => import("C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-plugin-md-enhance@2.0.0-beta.122/node_modules/vuepress-plugin-md-enhance/lib/client/components/VuePlayground.js")));
         
   },
 });

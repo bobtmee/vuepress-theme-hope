@@ -5,18 +5,18 @@ import HomePage from "@theme-hope/components/HomePage.js";
 import NormalPage from "@theme-hope/components/NormalPage.js";
 import Navbar from "@theme-hope/modules/navbar/components/Navbar.js";
 import Sidebar from "@theme-hope/modules/sidebar/components/Sidebar.js";
-import Layout from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/Layout.js";
-import NotFound from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/NotFound.js";
+import Layout from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/Layout.js";
+import NotFound from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/NotFound.js";
 
 import { useScrollPromise } from "@theme-hope/composables/index.js";
 import { injectDarkMode, setupDarkMode } from "@theme-hope/modules/outlook/composables/index.js";
 import { setupSidebarItems } from "@theme-hope/modules/sidebar/composables/index.js";
 
-import "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
+import "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/styles/index.scss";
 
 import GlobalEncrypt from "@theme-hope/modules/encrypt/components/GlobalEncrypt.js";
 import LocalEncrypt from "@theme-hope/modules/encrypt/components/LocalEncrypt.js";
-import Slide from "C:/Users/dada/Desktop/zz/code/comment/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/Slide.js";
+import Slide from "C:/Users/dada/Desktop/zz/code/comment/example/docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-beta.122/node_modules/vuepress-theme-hope/lib/client/layouts/Slide.js";
 
 
 export default defineClientConfig({
