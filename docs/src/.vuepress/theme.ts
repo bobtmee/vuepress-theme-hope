@@ -89,7 +89,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "http://waline.speedapis.com",
+      serverURL: "https://waline.speedapis.com",
     },
 
     // Disable features you don’t want here
